@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently pursuing BTECH(AI-ML) <br>I'm currently learning Full Stack Web Development<br>I'm looking for help with some MERN Project<br>
+👨‍🎓 Final-year B.Tech CSE (AI & ML) student <br>💻 Full Stack Web Developer<br>🚀 Exploring AI, DevOps & WebRTC technologies<br>
 
 
 ## 🌐 Socials:
